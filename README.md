@@ -80,17 +80,7 @@
 
 ---
 
-## 文件说明
 
-```
-├── hardware/
-│   ├── schematic/    # 原理图源文件（立创EDA）+ PDF预览版
-│   ├── pcb/          # PCB源文件 + Gerber文件 + PDF版图
-│   └── BOM.xlsx      # 物料清单
-├── firmware/         # Keil工程固件代码
-├── docs/             # 模块数据手册、设计说明文档
-└── images/           # 整机实物图、电路板特写、功能演示截图
-```
 
 ---
 
